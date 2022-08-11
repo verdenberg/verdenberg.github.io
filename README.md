@@ -4,6 +4,10 @@
 <br>
 <p align="center">Join Now: mc.phobos.id</p><br>
 <br>
-<p><a href="https://acetazine.sly.io">[Click/Tap here for Something Interesting!]</a><br>
-<br></p>
 <h5 align="center">Maximilian Verdenberg © 2022</h5>
+<br>
+<h6 align="center">Thanks to:</h6><br>
+<h6 align="center">Shockbyte - For Cheap Minecraft Hosting!</h6><br>
+<h6 align="center">GitHub - For Free Static Web Hosting!</h6>
+
+
