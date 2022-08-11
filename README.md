@@ -5,15 +5,6 @@
 <p align="center">Join Now: mc.phobos.id</p><br>
 <br>
 <h5 align="center">Maximilian Verdenberg © 2022</h5>
-<br>
-<
-<br>
-
-<br>
-<br>
-
-<br>
-<br>
 
 
 
